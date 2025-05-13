@@ -3,6 +3,6 @@
 
 #### This project is focused on real-time anomaly detection in surveillance videos using object detection and motion tracking.
 
-`Mentor: `  **Shaik Rehna Afroz (22B3932)**
+`Mentor: ` **Shaik Rehna Afroz (22B3932)**
 
-`Contact:`  **9381719314**
+`Contact:` **9381719314**
