@@ -13,4 +13,4 @@ Stay engaged and practice consistently to make the most of this learning experie
 
 2. [Convolutional Neural Networks](./CNN)
 
-> This folder contains the resources for Convolutional Neural Networks. At the end there are tutorials to understand how these are implemented in code
+> This folder contains the resources for Convolutional Neural Networks. There are tutorials at the end to understand how these are implemented in code
