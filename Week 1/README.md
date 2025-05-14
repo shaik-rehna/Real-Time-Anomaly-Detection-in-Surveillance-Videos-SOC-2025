@@ -7,6 +7,6 @@
 
 Stay engaged and practice consistently to make the most of this learning experience. Keep your enthusiasm high, and let’s begin this exciting journey together!
 
-1. [Neural Networks](https://github.com/your-username/Real-Time-Anomaly-Detection-in-Surveillance-Videos-SOC-2025/tree/main/Week%201/Neural%20networks)
+1. [Neural Networks](./Week%201/Neural%20networks)
 
 > This folder contains the resources to gain foundational knowledge on Neural Networks. They have great visual explanations
