@@ -1,4 +1,4 @@
-* Below are the resources to gain foundational knowledge on Neural Networks. They have great visual explanations
+* We'll now explore Neural Networks (NNs) – a foundational machine learning model inspired by biological neurons, capable of learning complex patterns from data.
 > Go through the videos 1, 2 in the below playlist for a basic understanding of Neural Networks
 
 > If you are interested in the math behind the backpropagation used in Neural Networks go through the Videos 3, 4 in the playlist, otherwise u can skip them 
