@@ -1,4 +1,4 @@
-# **Welcome to Week 1 !**
+# **Welcome to Week 1**
 
 * This week, we’ll focus on establishing the core deep learning concepts required for the project
 * If you are a beginner in deep learning, start with `Neural Networks` and then move to `Convolutional Neural Networks(CNN)`
