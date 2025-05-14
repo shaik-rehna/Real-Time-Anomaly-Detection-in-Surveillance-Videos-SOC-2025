@@ -11,6 +11,6 @@ Stay engaged and practice consistently to make the most of this learning experie
 
 >  This folder contains the resources to gain foundational knowledge on Neural Networks. They have great visual explanations
 
-2. [Convolutionla Neural Networks](./CNN)
+2. [Convolutional Neural Networks](./CNN)
 
 > This folder contains the resources for Convolutional Neural Networks. At the end there are tutorials to understand how these are implemented in code
