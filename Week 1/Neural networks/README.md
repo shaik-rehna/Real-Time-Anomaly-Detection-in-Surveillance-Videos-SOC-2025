@@ -7,9 +7,9 @@
 
 * Some more great resources on Neural Networks
   
-[Video 1](https://youtu.be/n1l-9lIMW7E?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
+[Video 1](https://youtu.be/n1l-9lIMW7E)
 
-[Video 2](https://youtu.be/BYGpKPY9pO0?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
+[Video 2](https://youtu.be/BYGpKPY9pO0)
 
 * Below is a tutorial to get an experience of NN code implementation. Download it and try to experiment with it by changing the hyperparmeters `(the number of neurons, activation function, optimizer, learning rate, batch size, and epochs)`
 
