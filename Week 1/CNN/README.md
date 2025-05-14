@@ -7,11 +7,11 @@
 
 * Some more great resources for understading CNN
 
-[Video 1](https://youtu.be/zfiSAzpy9NM?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
+[Video 1](https://www.youtube.com/watch?v=zfiSAzpy9NM&pp=ygUJY25uIGFpIG1s)
 
-[Video 2](https://youtu.be/7HPwo4wnJeA?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
+[Video 2](https://www.youtube.com/watch?v=7HPwo4wnJeA&pp=ygUeaW1hZ2UgY2xhc3NpZmljYXRpb24gdXNpbmcgY25u)
 
-[Video 3](https://youtu.be/oDAPkZ53zKk?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
+[Video 3](https://www.youtube.com/watch?v=oDAPkZ53zKk&pp=ygUXY29udiBwYWRkaW5nIGFuZCBzdHJpZGU%3D)
 
 * Below are the tutorials for CNN. Run the code and understand how it works. Observe the changes by tuning hyperparameters
   
