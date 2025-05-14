@@ -9,7 +9,7 @@ Stay engaged and practice consistently to make the most of this learning experie
 
 1. [Neural Networks](./Neural%20networks)
 
-> This folder contains the resources to gain foundational knowledge on Neural Networks. They have great visual explanations
+> This folder contains the resources to gain foundational knowledge on Neural Networks. 
 
 2. [Convolutionla Neural Networks](./CNN)
 
