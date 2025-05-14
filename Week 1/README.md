@@ -3,7 +3,7 @@
 * This week, we’ll focus on establishing the core deep learning concepts required for the project
 * If you are a beginner in deep learning, start with `Neural Networks` and then move to `Convolutional Neural Networks(CNN)` and `OpenCV`
 * If you are familiar with these concepts, you can quickly revise them
-* Also, we'll practise few code implementations to deepen our understanding 
+* Also, we'll practise few tutorials to deepen our understanding 
 
 Stay engaged and practice consistently to make the most of this learning experience. Keep your enthusiasm high, and let’s begin this exciting journey together!
 
