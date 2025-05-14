@@ -7,7 +7,6 @@
 
 Stay engaged and practice consistently to make the most of this learning experience. Keep your enthusiasm high, and let’s begin this exciting journey together!
 
-1. **Neural Networks**
+1. [Neural Networks](./Week-1/Neural-networks)
 
-Below are the resources to gain foundational knowledge on Neural Networks
-They have great visual explanations
+> This folder contains the resources to gain foundational knowledge on Neural Networks. They have great visual explanations
