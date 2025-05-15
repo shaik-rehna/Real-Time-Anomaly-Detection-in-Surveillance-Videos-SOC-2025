@@ -13,7 +13,7 @@
 
 [Video 3](https://www.youtube.com/watch?v=oDAPkZ53zKk&pp=ygUXY29udiBwYWRkaW5nIGFuZCBzdHJpZGU%3D)
 
-* Below are the tutorials for CNN. Download them and Run the code. Uunderstand how it works and Observe the changes by tuning hyperparameters
+* Below are the tutorials for CNN. Download them and run the code. Uunderstand how it works and observe the changes by tuning hyperparameters
   
 [Tutorial 1](https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/c029676472d90691aa145c6fb97a61c3/neural_networks_tutorial.ipynb)
 
