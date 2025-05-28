@@ -2,7 +2,7 @@
 * YOLO is a real-time object detection system that processes images in a single pass, balancing speed and accuracy
 * YOLOv5, an unofficial successor to YOLOv4, improves upon the architecture with PyTorch implementation, simplified deployment, and better performance on small objects while maintaining real-time speeds.
 
-*(YOLOv5 offers pre-trained models with varying sizes—n, s, m, l, x—for flexibility in speed-accuracy tradeoffs.)*
+*(YOLOv5 offers pre-trained models with varying sizes—n, s, m, l, x—for flexibility in speed-accuracy tradeoffs)*
 
 ### **YOLO (You Only Look Once)**
 [What is YOLO Algorithm?](https://youtu.be/ag3DLKsl2vk)
