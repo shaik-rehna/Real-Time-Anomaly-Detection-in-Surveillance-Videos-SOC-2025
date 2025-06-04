@@ -8,7 +8,7 @@
 [What is YOLO Algorithm?](https://youtu.be/ag3DLKsl2vk)
 
 ### **YOLOv5**
-> Below is the link for the official YOLOv5 Documentation. It contains great resources to understand YOLOv5 and how to implement it. It has a compilation of comprehensive tutorials that will guide you through different aspects of YOLOv5
+> Below is the link for the official YOLOv5 Documentation. It contains great resources to understand YOLOv5 and a compilation of comprehensive tutorials that will guide you through different aspects of YOLOv5
 
 [Official YOLOv5 Documentation](https://docs.ultralytics.com/yolov5/)
 
