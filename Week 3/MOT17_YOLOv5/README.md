@@ -39,7 +39,7 @@ This mimics a **semi-unsupervised anomaly pipeline**, where:
 
 * **Converting annotations**:
    * MOT17 uses a different annotation format (CSV-style with bounding boxes in top-left format). We need to **convert these into YOLO format** (normalized center-based coordinates).
-  
+
 * **Organizing the dataset**:
   
     * Create a new folder in google drive and inside it create `train`, `val` and `test` folders to store the processed data
@@ -53,7 +53,40 @@ This mimics a **semi-unsupervised anomaly pipeline**, where:
 * **Creating a `data.yaml` file**:
   
     * This YAML file tells YOLOv5 where to find images, how many classes exist, and what they are called
-  
+ ---
+ 
+### **Clarification on Using MOT17 Dataset**
+
+Don’t get confused by the MOT17 dataset structure.
+
+If you look into the `train/` folder of MOT17, you'll notice that **each sequence appears three times** — for example:
+
+```
+MOT17-02-DPM  
+MOT17-02-FRCNN  
+MOT17-02-SDP  
+```
+
+These three versions exist because the dataset includes detection results from **three different detectors**: DPM, FRCNN, and SDP.
+
+However, **we don’t use these detector outputs** — because **we are training our own detector using YOLOv5**.
+
+All three versions share:
+
+* The **same ground truth labels** (`gt/gt.txt`)
+* The **same image frames** (`img1/`)
+
+The only difference is the precomputed detection results (which we’re ignoring).
+
+#### **What You Should Do**
+
+* Pick **only one version** per sequence (e.g., use only `MOT17-02-FRCNN`, not all three).
+* Do the same for the **test set** if you are doing inference or evaluation.
+* **Ignore `det/det.txt` files** — they are detections by the original MOT detectors, not ground truth.
+
+By doing this, you avoid duplicating training data and keep your pipeline clean
+
+---
 ⚠️ NOTE on Runtime Usage:
 * Use `CPU` during preprocessing
     * While converting annotations and organizing the dataset, do not use the GPU runtime. These steps are lightweight and don't require GPU acceleration. So connect the runtime type to CPU in colab notebook
