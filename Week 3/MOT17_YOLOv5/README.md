@@ -87,7 +87,7 @@ The only difference is the precomputed detection results (which we’re ignoring
 By doing this, you avoid duplicating training data and keep your pipeline clean
 
 ---
-⚠️ NOTE on Runtime Usage:
+⚠️ NOTE on Runtime Usage in Google Colab:
 * Use `CPU` during preprocessing
     * While converting annotations and organizing the dataset, do not use the GPU runtime. These steps are lightweight and don't require GPU acceleration. So connect the runtime type to CPU in colab notebook
 
