@@ -1,5 +1,5 @@
 * This week, we'll train a pedestrian **detector** using the MOT17 dataset, which contains videos of people moving normally in public spaces.
-* Next week, we’ll implement **tracking** to follow these people across frames.
+* After this, we’ll implement **tracking** to follow these people across frames.
 * After these steps the model will learn **how people usually move**
 * We then **analyze deviations** at the tracking stage
 * We'll apply **rule-based anomaly logic**:
