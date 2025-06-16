@@ -1,6 +1,6 @@
 # Welcome to Week 4
 
-* This week we will learn the basics of `Object tracking` and `Anomaly detection` in Computer Vision
+* This week we will learn the basics of **`Object Tracking`** and **`Anomaly Detection`** in Computer Vision
 
 1.[Object Tracking](./Object_Tracking)
 
