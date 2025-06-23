@@ -8,7 +8,7 @@
   * Direction change
   * Entry into forbidden regions
 
-This mimics a **semi-unsupervised anomaly pipeline**, where:
+This mimics a **unsupervised anomaly pipeline**, where:
 
 * We train on normal patterns
 
