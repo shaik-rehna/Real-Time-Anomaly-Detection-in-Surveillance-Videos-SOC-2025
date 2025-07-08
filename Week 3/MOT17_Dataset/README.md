@@ -1,7 +1,7 @@
 **`IMPORTANT:`**  MOT17 is a large dataset. It takes time to download it. So pls try to download it as early as possible
 
 * First download the zip file(5.5GB) from this kaggle link : [MOT17_Download](https://www.kaggle.com/datasets/wenhoujinjust/mot-17)
-* Upload the zip file in your google drive and extract the files (Use Google Drive's "Open with" → "Google Zip Extractor")
+* Upload the zip file in your google drive and extract the files 
 * Or u can first extract the files locally and upload them to the google drive
   
   > Try to download the dataset in a single go without any interruptions
