@@ -25,7 +25,7 @@ The Avenue dataset is divided into:
 
 ## Goal
 
-> **Detect and localize abnormal human behaviors in outdoor surveillance videos.**
+> **Detect and localize abnormal human behaviors in outdoor surveillance videos**
 
 For example:
 
